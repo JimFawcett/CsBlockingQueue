@@ -1,0 +1,43 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Wed Aug 17 16:11:08 2016
+     Path: C:\SU\Repository\CS-BlockingQueue
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      19
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          BlockingQueue.cs   namespace                            SWTools      48      57      12
+          BlockingQueue.cs       class                      BlockingQueue      50      55      11
+          BlockingQueue.cs    function                      BlockingQueue      57       3       1
+          BlockingQueue.cs    function                                enQ      63       7       2
+          BlockingQueue.cs    function                               lock      65       4       1
+          BlockingQueue.cs    function                                deQ      76      12       3
+          BlockingQueue.cs    function                               lock      79       8       2
+          BlockingQueue.cs    function                               size      92       5       2
+          BlockingQueue.cs    function                               lock      93       2       1
+          BlockingQueue.cs    function                              clear     100       3       2
+          BlockingQueue.cs    function                               lock     100       2       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Program.cs   namespace                   CS_BlockingQueue       9      31       6
+                Program.cs       class                            Program      11      29       5
+                Program.cs    function                               Main      13      25       4
+                Program.cs    function                             Thread      18       7       2
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+    searched    10 dirs
+   processed     6 files

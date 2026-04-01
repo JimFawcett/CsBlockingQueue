@@ -1,0 +1,11 @@
+c:\github\JimFawcett\NewSite\Code\C#\CsBlockingQueue\CS-BlockingQueue\obj\Debug\net8.0\CS-BlockingQueue.GeneratedMSBuildEditorConfig.editorconfig
+c:\github\JimFawcett\NewSite\Code\C#\CsBlockingQueue\CS-BlockingQueue\obj\Debug\net8.0\CS-BlockingQueue.csproj.CoreCompileInputs.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsBlockingQueue\CS-BlockingQueue\obj\Debug\net8.0\CS-BlockingQueue.sourcelink.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBlockingQueue\CS-BlockingQueue\bin\Debug\net8.0\CS-BlockingQueue.dll.config
+c:\github\JimFawcett\NewSite\Code\C#\CsBlockingQueue\CS-BlockingQueue\bin\Debug\net8.0\CS-BlockingQueue.deps.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBlockingQueue\CS-BlockingQueue\bin\Debug\net8.0\CS-BlockingQueue.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBlockingQueue\CS-BlockingQueue\bin\Debug\net8.0\CS-BlockingQueue.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsBlockingQueue\CS-BlockingQueue\obj\Debug\net8.0\CS-BlockingQueue.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBlockingQueue\CS-BlockingQueue\obj\Debug\net8.0\refint\CS-BlockingQueue.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBlockingQueue\CS-BlockingQueue\obj\Debug\net8.0\CS-BlockingQueue.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsBlockingQueue\CS-BlockingQueue\obj\Debug\net8.0\ref\CS-BlockingQueue.dll
